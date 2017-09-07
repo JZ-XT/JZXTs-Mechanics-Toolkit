@@ -6,10 +6,9 @@ def print_menu():
     print "4. Feature Not Available"
     print "5. Exit"
     print 87 * "-"
+
   
-loop=True
-  
-while loop:
+while True:
     print_menu()
     choice = input("Enter your choice [1-5]: ")
      
@@ -32,6 +31,5 @@ while loop:
         print "This feature is not yet available"
         print ""
     elif choice==5:
-        print "Exiting program..."
-        print ""
-        loop=False
+        print "Exiting program...\n"
+        break
