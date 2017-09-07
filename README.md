@@ -31,3 +31,7 @@ We plan to improve this toolkit by adding:
   * With Instructions on How-to do them.
   
   **And MUCH More!**
+  
+  
+ Also, a special thanks to the following users for their contributions:
+ * ![Yattaze](https://github.com/Tlgyt "https://github.com/Tlgyt")
