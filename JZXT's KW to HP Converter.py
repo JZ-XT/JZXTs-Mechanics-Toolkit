@@ -3,8 +3,7 @@ def convert(kw):
     return hp
 
 print('''
-    JZXT Industries Presents
-       KW to HP Converter
+    JZXT's KW to HP Converter
 ''')
 KW = input ('How Many KW? ')
 hp = convert(int(KW))
